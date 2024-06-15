@@ -1,0 +1,8 @@
+C:/Users/bonis/source/repos/Project1/Project1/build/CMakeFiles/tests.dir
+C:/Users/bonis/source/repos/Project1/Project1/build/CMakeFiles/test.dir
+C:/Users/bonis/source/repos/Project1/Project1/build/CMakeFiles/edit_cache.dir
+C:/Users/bonis/source/repos/Project1/Project1/build/CMakeFiles/rebuild_cache.dir
+C:/Users/bonis/source/repos/Project1/Project1/build/external/doctest/CMakeFiles/doctest.dir
+C:/Users/bonis/source/repos/Project1/Project1/build/external/doctest/CMakeFiles/test.dir
+C:/Users/bonis/source/repos/Project1/Project1/build/external/doctest/CMakeFiles/edit_cache.dir
+C:/Users/bonis/source/repos/Project1/Project1/build/external/doctest/CMakeFiles/rebuild_cache.dir
